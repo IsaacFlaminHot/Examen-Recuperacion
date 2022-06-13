@@ -1,0 +1,30 @@
+
+El nombre de su producto es: Teclado
+
+La cantidad de su producto fue de 3 piezas
+
+El precio de su producto es de 500.99$
+
+El nombre de su producto es: Mouse
+
+La cantidad de su producto fue de 10 piezas
+
+El precio de su producto es de 300.5$
+
+El nombre de su producto es: HDMI Cable
+
+La cantidad de su producto fue de 20 piezas
+
+El precio de su producto es de 400.2$
+
+
+
+
+El nombre de su producto es: Cable
+
+La cantidad de su producto fue de 58 piezas
+
+El precio de su producto es de 250.99$
+
+
+

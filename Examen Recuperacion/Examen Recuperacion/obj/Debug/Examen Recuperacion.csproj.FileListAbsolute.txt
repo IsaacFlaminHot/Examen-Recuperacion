@@ -1,0 +1,7 @@
+C:\Users\Laboratorio\Documents\GitHub\Examen-Recuperacion\Examen Recuperacion\Examen Recuperacion\bin\Debug\Examen Recuperacion.exe.config
+C:\Users\Laboratorio\Documents\GitHub\Examen-Recuperacion\Examen Recuperacion\Examen Recuperacion\bin\Debug\Examen Recuperacion.exe
+C:\Users\Laboratorio\Documents\GitHub\Examen-Recuperacion\Examen Recuperacion\Examen Recuperacion\bin\Debug\Examen Recuperacion.pdb
+C:\Users\Laboratorio\Documents\GitHub\Examen-Recuperacion\Examen Recuperacion\Examen Recuperacion\obj\Debug\Examen Recuperacion.csproj.AssemblyReference.cache
+C:\Users\Laboratorio\Documents\GitHub\Examen-Recuperacion\Examen Recuperacion\Examen Recuperacion\obj\Debug\Examen Recuperacion.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio\Documents\GitHub\Examen-Recuperacion\Examen Recuperacion\Examen Recuperacion\obj\Debug\Examen Recuperacion.exe
+C:\Users\Laboratorio\Documents\GitHub\Examen-Recuperacion\Examen Recuperacion\Examen Recuperacion\obj\Debug\Examen Recuperacion.pdb
